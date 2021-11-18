@@ -10,7 +10,8 @@ https://github.com/manticoresoftware/manticoresearch - easy database creation
 Week 2 Sprint
 - [ ] begin actual code for project 
 - [ ] 6 significant changes to code 
-
+- [ ] create database
+- [ ] fill database with 5 clothing items
 
 Week 3 Sprint
 - [ ] create presentation
