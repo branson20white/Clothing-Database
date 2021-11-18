@@ -11,7 +11,10 @@ Week 2 Sprint
 - [ ] begin actual code for project 
 - [ ] 6 significant changes to code 
 - [ ] create database
+- [ ] access database through code and retrieve item
+- [ ] create a schema for database
 - [ ] fill database with 5 clothing items
+- [ ] create program to pull descriptors from database
 
 Week 3 Sprint
 - [ ] create presentation
