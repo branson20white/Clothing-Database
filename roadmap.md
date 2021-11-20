@@ -12,7 +12,7 @@ Week 2 Sprint
 - [x] 6 significant changes to code 
 - [x] create database (install sql lite pip)
 - [x] access database through code and retrieve item
-- [ ] create a schema for database
+- [x] create a schema for database
 - [x] fill database with 5 clothing items
 
 Week 3 Sprint
