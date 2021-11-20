@@ -8,15 +8,15 @@ https://github.com/mrvautin/githubdocs - creates a searchable database using md
 https://github.com/manticoresoftware/manticoresearch - easy database creation
 
 Week 2 Sprint
-- [ ] begin actual code for project 
-- [ ] 6 significant changes to code 
-- [ ] create database (install sql lite pip)
-- [ ] access database through code and retrieve item
+- [x] begin actual code for project 
+- [x] 6 significant changes to code 
+- [x] create database (install sql lite pip)
+- [x] access database through code and retrieve item
 - [ ] create a schema for database
-- [ ] fill database with 5 clothing items
-- [ ] create program to pull descriptors from database
+- [x] fill database with 5 clothing items
 
 Week 3 Sprint
+- [ ] create program to pull descriptors from database
 - [ ] create presentation
 - [ ] test code 
 - [ ] finalize code
